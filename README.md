@@ -5,14 +5,14 @@ This project is an end-to-end data science analysis of customer shopping behavio
 
 This project was developed as a comprehensive demonstration of skills in data analysis, data visualization, and business intelligence.
 
-##📊 Power BI Dashboard Preview
+## 📊 Power BI Dashboard Preview
 Here is a preview of the final interactive dashboard. The live .pbix file can be opened with Power BI Desktop.
 <img width="1470" height="795" alt="image" src="https://github.com/user-attachments/assets/f86129da-7612-49e1-929d-8ebab554f7c8" />
 
 
 
 
-##💡 Key Features & Insights
+## 💡 Key Features & Insights
 The analysis and dashboard are designed to answer critical business questions:
 
 Demographic Analysis: Which age groups and genders contribute the most to revenue?
@@ -25,7 +25,7 @@ Behavioral Patterns: What is the average purchase value, and how does it vary by
 
 Seasonal Trends: Are there specific months or seasons that show peak sales?
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 Database: SQL (PostgreSQL)
 
 Data Analysis: Python, Pandas, NumPy
@@ -34,7 +34,7 @@ Development: Jupyter Notebook
 
 Data Visualization: Power BI, Matplotlib/Seaborn
 
-##📈 Project Workflow
+## 📈 Project Workflow
 This project follows a systematic 3-stage data analysis workflow:
 
 1. Data Extraction (From .csv file)
@@ -56,10 +56,8 @@ Exporting: Saving the final, clean dataset as a new database in postgre localhos
 3. Dashboarding & Visualization (Power BI)
 The final, clean dataset was imported into Power BI to create the customer_behavior_analysis.pbix dashboard. This dashboard provides an interactive and user-friendly interface to explore key business metrics, filter by different segments (like location or category), and derive actionable insights.
 
-##🚀 How to Use This Project
+## 🚀 How to Use This Project
 Clone the repository:
-
-Bash
 
 git clone https://github.com/kumarpalvakharia/CustomerShoppingBehaviorAnalysis.git
 Review the Analysis:
