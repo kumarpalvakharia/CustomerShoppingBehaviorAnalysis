@@ -1,5 +1,3 @@
-Customer Shopping Behavior Analysis
-
 # Customer Shopping Behavior Analysis & Dashboard
 This project is an end-to-end data science analysis of customer shopping behavior. It follows a complete data pipeline, starting from data extraction, performing in-depth exploratory data analysis (EDA) and cleaning with Pandas, and culminating in a final interactive Power BI dashboard to visualize key business insights.
 
